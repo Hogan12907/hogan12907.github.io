@@ -34,7 +34,20 @@ h2 {
 }
 
 
+h3 {
+    font-family: 'Gentium Basic', serif;
+    font-size: 20px
+    font-weight: bold
+}
 
+
+h4 {
+    margin-top: 50px;
+    
+    font-family: 'open sans', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
 
 
 p1 {
